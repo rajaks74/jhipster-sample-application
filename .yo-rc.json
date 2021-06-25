@@ -42,7 +42,9 @@
     "jwtSecretKey": "NjJmMDM3YjllMGM1YThjYTJjMzlhOWRkODI2M2M5MjIzZDU4NDM1NTJiNTM0OWI5NmYwZTFkNTY0OTdkNDA5ODdhMDUyZDc5Nzg1YjIwYmIwYzBkYWIzOGFjOGMxMWY4ZTBmMzIwYTk2ZWJlZDUyMzBmMzk5M2Q0MWU3Njk4NDM=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1624665381000
   },
   "git-provider": "GitHub",
   "git-company": "rajaks74",
